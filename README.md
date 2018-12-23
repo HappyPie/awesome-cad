@@ -1,4 +1,4 @@
-# awesome-cad
+# awesome-cad-command
 >awesome list related to cad, including commands for daily use etc.
 ##Commands：
 1. ARC--圆弧
